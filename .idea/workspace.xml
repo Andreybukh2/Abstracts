@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd14a031-2787-474b-a8b3-e47eee9975ba" name="Changes" comment="Пробую делать тесты">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Abstracts/Abstracts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Abstracts/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Abstracts/Forms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Abstracts/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Abstracts/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Abstracts/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Abstracts/squarest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="bd14a031-2787-474b-a8b3-e47eee9975ba" name="Changes" comment="Lesson13_Tests">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Abstracts/getSquareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Abstracts/getSquareTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +69,7 @@
       <recent name="Abstracts" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Abstracts">
+  <component name="RunManager" selected="JUnit.getSquareTest.getSquare">
     <configuration name="Abstracts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Abstracts.Abstracts" />
       <module name="Abstracts" />
@@ -115,8 +101,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Abstracts" />
         <item itemvalue="JUnit.getSquareTest.getSquare" />
+        <item itemvalue="Application.Abstracts" />
       </list>
     </recent_temporary>
   </component>
@@ -131,8 +117,16 @@
       <workItem from="1679256211431" duration="260000" />
       <workItem from="1679753840532" duration="16000" />
       <workItem from="1679753967455" duration="49000" />
-      <workItem from="1680958684954" duration="21647000" />
+      <workItem from="1680958684954" duration="25078000" />
     </task>
+    <task id="LOCAL-00001" summary="Lesson13_Tests">
+      <created>1680996836619</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680996836619</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +145,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Пробую делать тесты" />
-    <option name="LAST_COMMIT_MESSAGE" value="Пробую делать тесты" />
+    <MESSAGE value="Lesson13_Tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson13_Tests" />
   </component>
 </project>
